@@ -1,0 +1,11 @@
+git config --global user.name "Walter Owando"
+git config --global user.email "wowando@kenbright.co.ke"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
+
+
+
+martin pule
+password: U3x*g3rwPNapU99
+username: @MPule1

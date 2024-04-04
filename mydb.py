@@ -15,8 +15,8 @@ cursorObject = dataBase.cursor()
 cursorObject.execute("CREATE DATABASE KHLco")
 
 # Commit the changes
-# dataBase.commit()
+dataBase.commit()
 
-# dataBase.close()
+dataBase.close()
 
 print("All Done!")

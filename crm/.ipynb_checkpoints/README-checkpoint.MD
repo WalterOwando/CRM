@@ -81,9 +81,8 @@ In Django, there it's always a three way process.
 ## Under Website folder
 Add a new folder called `template`.
 1. add new html files
-- [x] home.html
-- [x] base.html
-- [x] navbar.html
+
+
 
 
 
